@@ -1,2 +1,2 @@
 # Python
-hacktoberfest contribution for firtst timers.
+hacktoberfest contribution for first timers.
